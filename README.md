@@ -6,7 +6,7 @@
 
 ➥   *open terminal server and write »*
 
- `sudo apt-get update && git clone https://github.com/lordbot/td && cd td && sudo chmod 777 install.sh && ./install.sh` 
+ `sudo apt-get update && git clone https://github.com/SourceLord/td && cd td && sudo chmod 777 install.sh && ./install.sh` 
 
 
 ➥  *Wait for it to complete install*
@@ -31,26 +31,7 @@
 
 ➥   افتح تورمنل السيرفر واكتب هاذه »
 
- `sudo apt-get update && git clone https://github.com/lordbot/td && cd td && sudo chmod 777 install.sh && ./install.sh` 
+ `sudo apt-get update && git clone https://github.com/SourceLord/td && cd td && sudo chmod 777 install.sh && ./install.sh` 
 
 
-➥  انتظر بعض الوقت حته يكمل تنصيب 
-
-➥  حيكلك اكتب توكن البوت ( @BotFather )
-
-➥  اكتب ايدي المطور الاساسي 
-
-
-➥  مبروك تنصب سورس lord عل TD
-
-┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
-
-
-➥ [Developer : lord](https://t.me/YYBYY)
-
-➥ [channel : BotLua](https://t.me/botlua)
-
-
-┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
-
-
+➥  انتظر بع
