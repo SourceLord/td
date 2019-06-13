@@ -1,0 +1,5 @@
+#!/bin/sh 
+cd td 
+screen -S LORD -X kill
+screen -s lord -S LORD ./run
+#source lord
